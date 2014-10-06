@@ -1,0 +1,11 @@
+{
+    "name": "tolweb-visualizer",
+    "version": "0.0.1",
+    "author": "Richard Zurad <rzurad@gmail.com>",
+    "description": "Playing with data from the Tree of Life project <http://www.tolweb.org>",
+    "private": true,
+    "devDependencies": {
+        "xml-stream": "0.4.4"
+    },
+    "license": "beerware"
+}

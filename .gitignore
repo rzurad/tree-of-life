@@ -1,0 +1,5 @@
+*.swp
+xml/*.xml
+json/*.json
+node_modules
+*.gz
